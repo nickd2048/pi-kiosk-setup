@@ -23,7 +23,7 @@ You shouldn't blindly execute a stranger’s code, ideally you should understand
 
 ## The only bit you care about
 
-Run this:
+Run this on your Pi:
 
 ```
 /bin/bash -c "$(curl -fsSL https://github.com/luke255/pi-kiosk-setup/raw/main/pi.sh)"
